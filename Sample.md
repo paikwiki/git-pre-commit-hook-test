@@ -8,4 +8,12 @@ It has white space at the end of line.
 
 ## New line
 
-It has not new line at the emd of doc.
+It has not new line at the end of doc.
+
+## Another white space
+
+New white space is made for test. 
+
+## Another new line
+
+New last line is written for test.
