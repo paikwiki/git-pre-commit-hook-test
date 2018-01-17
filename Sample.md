@@ -25,3 +25,8 @@ New white space is made for test.
 ## 3rd new line
 
 New last line is written for test.
+
+## Final test
+
+This line has a white space at the end of line,
+but no new line at the end of doc.
